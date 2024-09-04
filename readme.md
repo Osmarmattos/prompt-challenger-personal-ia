@@ -90,7 +90,52 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+Claro! Vou montar um treino focado em perda de peso para 3 dias na semana. Cada treino incluirá 30 minutos de esteira, como solicitado, seguido por exercícios de força e condicionamento. Esse tipo de treino ajuda a queimar calorias, fortalecer os músculos e melhorar o metabolismo.
+
+Dia 1: Treino de Corpo Inteiro
+1. Aquecimento:
+
+5-10 minutos de alongamento dinâmico (ex.: rotação de braços, agachamentos sem peso).
+2. Esteira:
+
+30 minutos de corrida/caminhada (alternando intensidade, se possível).
+3. Treino de Força:
+
+Agachamento com peso corporal: 3 séries de 15 repetições.
+Flexões: 3 séries de 12 repetições (ajoelhado se necessário).
+Remada com halteres: 3 séries de 12 repetições por lado.
+Prancha: 3 séries de 30 segundos.
+Dia 2: Treino de Pernas e Glúteos
+1. Aquecimento:
+
+5-10 minutos de alongamento dinâmico.
+2. Esteira:
+
+30 minutos de corrida/caminhada (se possível, inclinação leve).
+3. Treino de Força:
+
+Avanço (lunge): 3 séries de 12 repetições por perna.
+Leg Press (se disponível): 3 séries de 15 repetições.
+Stiff Leg Deadlift: 3 séries de 12 repetições.
+Elevação de panturrilha: 3 séries de 20 repetições.
+Dia 3: Treino de Peito, Costas e Abdômen
+1. Aquecimento:
+
+5-10 minutos de alongamento dinâmico.
+2. Esteira:
+
+30 minutos de corrida/caminhada.
+3. Treino de Força:
+
+Supino com halteres: 3 séries de 12 repetições.
+Remada Curvada: 3 séries de 12 repetições.
+Bicicleta Abdominal: 3 séries de 20 repetições (cada lado).
+Mountain Climbers: 3 séries de 30 segundos.
+Recomendações:
+Descanso: Descanse pelo menos um dia entre os treinos.
+Alongamento Pós-Treino: Dedique 5-10 minutos para alongamento estático ao final de cada sessão para ajudar na recuperação muscular.
+Nutrição: Combine o treino com uma alimentação balanceada para maximizar a perda de peso.
+Se precisar de ajustes ou tiver alguma dúvida, estou aqui para ajudar!
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
